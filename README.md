@@ -1,4 +1,15 @@
-## Hi there 👋
+## Boas vindas!!! 💙
+
+- meu nome é Emily 💜
+- estou estudando no Alura!!
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## Você pode entrar em contato comigo 💮
+* 0000108078681sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/mRwC6FkfujUAAAAC/ghibli.gif)
+
 
 <!--
 **EmilyAraujoo/EmilyAraujoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
